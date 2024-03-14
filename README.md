@@ -73,7 +73,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ❤️ &emsp;• Im an official partener with YorkHost !<br/><br/>
+ ❤️ •&emsp;Im an official partener with YorkHost !<br/><br/>
  • Get -20% with my promo code : "daziiktv" (From all the website)
  • U want check? Go here: [YorkHost Website](https://yorkhost.fr) !
 
