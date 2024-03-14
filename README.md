@@ -22,40 +22,31 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://katerasthecrack.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://katerasthecrack.com">! >kAt$rAs</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=kat$rasthecrack">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web developer from <b>France</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://katerasthecrack.com" target="blank">
+ <a href="http://itskateras.000.pe/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="katerasthecrack" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="katerasthecrack"/>
- </a>
- <!-- <a href="https://dev.to/katerasthecrack" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="katerasthecrack" />
- </a> -->
- <a href="https://twitter.com/_katerasthecrack" target="_blank">
+ <a href="https://twitter.com/itskateras" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_katerasthecrack" target="_blank">
+ <a href="https://instagram.com/katerasthecrack" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="katerasthecrack" />
  </a> 
- <a href="https://facebook.com/katerasthecrack.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="katerasthecrack"  />
-  </a> 
 </p>
 <br />
 
@@ -67,7 +58,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: katerasthecrack.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: monkeydevv@proton.me<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/katerasthecrack/katerasthecrack/issues)
 
 </p>
@@ -84,8 +75,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -102,10 +91,8 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=katerasthecrack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/katerasthecrack)
+[![Terminus.sh](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/terminus-v1)
+[![Insta Clone](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/insta-clone-html)
 
 <p align="left">
   <a href="https://github.com/katerasthecrack?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
