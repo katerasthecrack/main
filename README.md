@@ -67,6 +67,23 @@
 <br/>
 <br/>
 
+<!-- About Section -->
+ # YorkHost Partener
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ❤️ &emsp; Im an official partener with YorkHost !<br/><br/>
+ • Get -20% with my promo code : "daziiktv" (From all the website)
+ • U want check? Go here: [YorkHost Website](https://yorkhost.fr) !
+
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
