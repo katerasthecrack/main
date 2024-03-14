@@ -110,6 +110,7 @@
 ## - My top #3 repository -
 [![Terminus.sh](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=terminus-v1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/terminus-v1)
 [![Insta Clone](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=insta-clone-html&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/insta-clone-html)
+[![Win Or Die](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=winordie-v&&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/winordie-v1)
 
 <p align="left">
   <a href="https://github.com/katerasthecrack?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
