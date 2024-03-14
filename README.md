@@ -56,7 +56,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; Im a French web developper. <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: monkeydevv@proton.me<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/katerasthecrack/katerasthecrack/issues)
@@ -90,7 +90,7 @@
 
 <br/>
 
-## Top Open Source -
+## - My top #3 repository -
 [![Terminus.sh](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=terminus-v1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/terminus-v1)
 [![Insta Clone](https://github-readme-stats.vercel.app/api/pin/?username=katerasthecrack&repo=insta-clone-html&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/katerasthecrack/insta-clone-html)
 
@@ -121,4 +121,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=katerasthecrack&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![kateras Graph](https://github-readme-activity-graph.vercel.app/graph?username=katerasthecrack&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
